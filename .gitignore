@@ -1,0 +1,18 @@
+# Entornos Virtuales
+venv/
+env/
+.env
+
+# Archivos de datos (Nunca subir datasets crudos a GitHub)
+*.csv
+DATASET/
+
+# Archivos de sistema de macOS
+.DS_Store
+
+# Caché de Python y Jupyter
+__pycache__/
+*.pyc
+
+# Configuraciones locales de tu editor
+.vscode/
